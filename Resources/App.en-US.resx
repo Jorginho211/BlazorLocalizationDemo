@@ -24,81 +24,81 @@
         </value>
     </resheader>
     <data name="HomeSubtitle" xml:space="preserve">
-    <value>Bienvenido a tu nueva aplicación.</value>
+    <value>Welcome to your new app.</value>
   </data>
     <data name="HomeTitle" xml:space="preserve">
-    <value>Hola, mundo!</value>
+    <value>Hello, world!</value>
   </data>
     <data name="SurveyPromptTitle" xml:space="preserve">
-    <value>¿Cómo funciona Blazor para usted?</value>
+    <value>How is Blazor working for you?</value>
   </data>
     <data name="CounterButton" xml:space="preserve">
-    <value>Presióname</value>
+    <value>Click me</value>
   </data>
     <data name="CounterText" xml:space="preserve">
-    <value>Contador actual</value>
+    <value>Current count</value>
   </data>
     <data name="CounterTitle" xml:space="preserve">
-    <value>Contador</value>
+    <value>Counter</value>
   </data>
     <data name="FetchDataDate" xml:space="preserve">
-    <value>Fecha</value>
+    <value>Date</value>
   </data>
     <data name="FetchDataSubtitle" xml:space="preserve">
-    <value>Este componente demuestra cómo obtener datos desde un servicio.</value>
+    <value>This component demonstrates fetching data from a service.</value>
   </data>
     <data name="FetchDataSummary" xml:space="preserve">
-    <value>Resumen</value>
+    <value>Summary</value>
   </data>
     <data name="FetchDataTempC" xml:space="preserve">
-    <value>Temperatura (C)</value>
+    <value>Temp. (C)</value>
   </data>
     <data name="FetchDataTempF" xml:space="preserve">
-    <value>Temperatura (F)</value>
+    <value>Temp. (F)</value>
   </data>
     <data name="FetchDataTitle" xml:space="preserve">
-    <value>Pronóstico del tiempo</value>
+    <value>Weather forecast</value>
   </data>
     <data name="ApplicationName" xml:space="preserve">
-    <value>Localización en Blazor</value>
+    <value>Localization in Blazor</value>
   </data>
     <data name="Language" xml:space="preserve">
-    <value>Idioma</value>
+    <value>Language</value>
   </data>
     <data name="MenuAbout" xml:space="preserve">
-    <value>Acerca de</value>
+    <value>About</value>
   </data>
     <data name="NavBarApplicationName" xml:space="preserve">
-    <value>Localización en Blazor</value>
+    <value>Localization in Blazor</value>
   </data>
     <data name="NavBarCounter" xml:space="preserve">
-    <value>Contador</value>
+    <value>Counter</value>
   </data>
     <data name="NavBarFetchData" xml:space="preserve">
-    <value>Obtener Datos</value>
+    <value>FetchData</value>
   </data>
     <data name="NavBarHome" xml:space="preserve">
-    <value>Página Principal</value>
+    <value>Home</value>
   </data>
     <data name="HomeFooter1" xml:space="preserve">
-    <value>Por favor, responda a nuestra</value>
+    <value>Please take our</value>
   </data>
     <data name="HomeFooter2" xml:space="preserve">
-    <value>corta encuesta</value>
+    <value>brief survey</value>
   </data>
     <data name="HomeFooter3" xml:space="preserve">
-    <value>y díganos que piensa.</value>
+    <value>and tell us what you think.</value>
   </data>
     <data name="SurveyTitle" xml:space="preserve">
-    <value>¿Qué tal te está funcionando Blazor?</value>
+    <value>How is Blazor working for you?</value>
   </data>
   <data name="Loading" xml:space="preserve">
-    <value>Cargando</value>
-  </data>
-  <data name="AppNotFoundSubtitle" xml:space="preserve">
-    <value>Lo siento, no hay nada en esta dirección.</value>
+    <value>Loading</value>
   </data>
   <data name="AppNotFound" xml:space="preserve">
-    <value>No encontrado</value>
+    <value>Not Found</value>
+  </data>
+  <data name="AppNotFoundSubtitle" xml:space="preserve">
+    <value>Sorry, there's nothing at this address.</value>
   </data>
 </root>

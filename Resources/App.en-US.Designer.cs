@@ -14,21 +14,21 @@ namespace BlazorLocalizationDemo.Resources {
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class App_es_ES {
+    internal class App_en_US {
         
         private static System.Resources.ResourceManager resourceMan;
         
         private static System.Globalization.CultureInfo resourceCulture;
         
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal App_es_ES() {
+        internal App_en_US() {
         }
         
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
         internal static System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.Equals(null, resourceMan)) {
-                    System.Resources.ResourceManager temp = new System.Resources.ResourceManager("BlazorLocalizationDemo.Resources.App_es_ES", typeof(App_es_ES).Assembly);
+                    System.Resources.ResourceManager temp = new System.Resources.ResourceManager("BlazorLocalizationDemo.Resources.App_en_US", typeof(App_en_US).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -189,15 +189,15 @@ namespace BlazorLocalizationDemo.Resources {
             }
         }
         
-        internal static string AppNotFoundSubtitle {
-            get {
-                return ResourceManager.GetString("AppNotFoundSubtitle", resourceCulture);
-            }
-        }
-        
         internal static string AppNotFound {
             get {
                 return ResourceManager.GetString("AppNotFound", resourceCulture);
+            }
+        }
+        
+        internal static string AppNotFoundSubtitle {
+            get {
+                return ResourceManager.GetString("AppNotFoundSubtitle", resourceCulture);
             }
         }
     }
