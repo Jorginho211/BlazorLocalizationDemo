@@ -11,9 +11,10 @@ public static class WebAssemblyHostExtensions
         var culture = await localStorage.GetItemAsync<string>("culture");
 
         CultureInfo cultureInfo;
-        if (string.IsNullOrEmpty(culture)) {
-            cultureInfo = new CultureInfo("es-ES");
-            await localStorage.SetItemAsync("culture", "es-ES");
+        if (string.IsNullOrEmpty(culture))
+        {
+            cultureInfo = LocalizerSettings.NeutralCulture.culture;
+            await localStorage.SetItemAsync("culture", cultureInfo.Name);
         }
         else {
             cultureInfo = new CultureInfo(culture);
